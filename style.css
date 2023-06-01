@@ -11,3 +11,12 @@
   background-color: #161822;
   color: #EFEFEF;
 }
+
+header .icons {
+    display: flex;
+    flex-direction: column;
+}
+
+header .icons a {
+    text-decoration: none;
+}
