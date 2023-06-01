@@ -12,11 +12,11 @@
   color: #EFEFEF;
 }
 
+a {
+    text-decoration: none;
+}
+
 header .icons {
     display: flex;
     flex-direction: column;
-}
-
-header .icons a {
-    text-decoration: none;
 }
